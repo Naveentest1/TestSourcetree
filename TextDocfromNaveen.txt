@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 local changes
-=======
-server changes git
->>>>>>> 6b0649c75f44f2b86370c4d14d2b7b9c4f943960
