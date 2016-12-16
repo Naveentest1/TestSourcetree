@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 server
+=======
+local
+>>>>>>> Stashed changes
