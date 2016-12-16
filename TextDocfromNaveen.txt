@@ -1,2 +1,6 @@
 change
+<<<<<<< Updated upstream
 dvsdvsbsdb
+=======
+                                                   dvsdgvsdgs
+>>>>>>> Stashed changes
