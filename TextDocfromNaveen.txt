@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Server cahngesdfsd
+=======
+local
+>>>>>>> Stashed changes
